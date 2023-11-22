@@ -5,3 +5,5 @@
 <li>It allows users to copy text to their clipboard with a single click. </li>
 <li>The interface is clean and user-friendly, making it easy to integrate into web applications or websites.</li>
 </ul>
+
+# [Live Demo](https://copy-to-clipboard-js.netlify.app)
